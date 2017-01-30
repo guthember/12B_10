@@ -1,0 +1,4 @@
+C:\Users\guthe\documents\visual studio 2010\Projects\FileKiiras\bin\Debug\FileKiiras.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\FileKiiras\bin\Debug\FileKiiras.pdb
+C:\Users\guthe\documents\visual studio 2010\Projects\FileKiiras\obj\x86\Debug\FileKiiras.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\FileKiiras\obj\x86\Debug\FileKiiras.pdb
